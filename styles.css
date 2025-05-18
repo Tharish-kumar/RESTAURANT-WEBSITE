@@ -353,6 +353,7 @@ nav ul li:hover::after{
     height:80vh;
     background-repeat: no-repeat;
     background-attachment:fixed;
+    background-size:cover;
    
 
 }
