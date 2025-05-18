@@ -1,8 +1,9 @@
-🍽️ Restaurant Website
+#🍽️ Restaurant Website
+
 Welcome to the Restaurant Website – a responsive and visually appealing web project designed to showcase a modern dining experience. Built using HTML, CSS, and JavaScript, this website offers a clean and elegant interface that can be customized for any restaurant, café, or food-related business.
 
 🔗 Live Demo
-View Live Website
+[View Live Website](https://tharish-kumar.github.io/RESTAURANT-WEBSITE/)
 
 📌 Features
 🖼️ Attractive Hero Section with restaurant branding
